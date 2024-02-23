@@ -1,3 +1,5 @@
+#Esta linea es para un fork, del curso de Dalto----un grande el pana
+
 #creando un conjunto con set()
 conjunto = set(["Dato 1"])
 
