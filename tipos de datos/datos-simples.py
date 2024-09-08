@@ -2,8 +2,8 @@
 'string'
 
 """tus datos son:
-      nombre: lucas
-      apellido: dalto"""
+      nombre: Lucas el mejor
+      apellido: dalto la maquina"""
       
 '''tus datos son:
       nombre: lucas
