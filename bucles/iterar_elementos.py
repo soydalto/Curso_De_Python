@@ -12,7 +12,7 @@ for numero in numeros:
     
 
 #iterando dos listas del mismo tamaño al mismo tiempo
-for numero,animal in zip(animales,numeros):
+for numero,animal in zip(numeros,animales):
     print(f"recorriendo lista 1: {numero}")
     print(f"recorriendo lista 2: {animal}")
     
