@@ -20,6 +20,7 @@ tiempo_vacio_dalto =  100 - dalto_curso * 1000 // crudo_dalto / 10
 
 
 #Mostrando las diferencias de duraciòn (ejercicio A)
+##aprendiendo a hacer pull request xdd
 
 print("----------------")
 print("El curso de dalto dura:")

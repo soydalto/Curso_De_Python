@@ -17,3 +17,5 @@ bienvenida = f"Hola {nombre_completo_de_tu_tio_master} ¿Como estas?"
 print("Lucas" in bienvenida) #true
 print ("Lucas" not in bienvenida) #false
 
+#vamos a er qub2fnwfml
+
