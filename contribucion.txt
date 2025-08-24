@@ -1,0 +1,1 @@
+Esta es mi contribución a el repo Curso-De-Python. No contiene nada, solo estoy practicando GIT, específicamente, Pull Request. Puedes ignorar esta modificación, estoy practicando nomás... Saludos si lees esto Dalto, hice tu curso de GIT :)
