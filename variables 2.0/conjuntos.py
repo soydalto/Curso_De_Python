@@ -24,3 +24,7 @@ resultado = conjunto2.isdisjoint(conjunto1)
 
 
 print(resultado)
+
+print(type(conjunto))
+
+#agregando un elemento al conjunto
