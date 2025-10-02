@@ -1,6 +1,6 @@
 
 #creando una lista (se pueden modificar)
-lista = ["Lucas Dalto","Soy Dalto",True,1.85, "Soy Dalto"]
+lista = ["Qugmire ","Soy Dalto",True,1.85, "Soy Dalto"]
 
 #creando una tupla (no pueden modificar)
 tupla = ("Lucas Dalto","Soy Dalto",True,1.85, "Soy Dalto")
