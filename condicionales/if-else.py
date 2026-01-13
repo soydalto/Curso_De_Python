@@ -1,9 +1,7 @@
+Answer = input("Ingrese la contraseña: ")
+contraseña_almacenada = "PapuMasiso"
 
-contraseña_almacenada = "DaltoMaestro"
-contraseña_escrita = '''DaltoMaestro'''
-
-if contraseña_almacenada == contraseña_escrita:
+if contraseña_almacenada == Answer:
     print("INICIANDO SESIÒN...")
 else: 
-    print("CONTRASEÑA EQUIVOCADA, INTENTE DE NUEVO")    
-    
+    print("CONTRASEÑA EQUIVOCADA, INTENTE DE NUEVO")  
